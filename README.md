@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Chris Recupero (Chriscoop), this is my portfolio 
+##  Hi, I'm Chris Recupero (Chriscoop), this is my portfolio 
 
 I'm an aspiring Data Analyst with a passion for exploring insights in Baseball Data. I love uncovering the hidden stories in the numbers and sharing them with fellow sports enthusiasts.
 
@@ -12,7 +12,7 @@ I'm an aspiring Data Analyst with a passion for exploring insights in Baseball D
 - Build engaging data visualizations and dashboards in R, Tableau, and Python
 - Participate in Kaggle competitions to refine my analytics skills
 
-### 🏒 Fun Facts & Interests
+###  Fun Facts & Interests
 - Diehard **Yankees** and **Islanders** fan
 - Love watching baseball and hockey
 - Enjoy competing in math competitions
